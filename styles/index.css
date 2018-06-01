@@ -1,0 +1,48 @@
+.result {
+  background-color: azure;
+  border: 1px solid aqua;
+  border-radius: 4px;
+  margin-top: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.heading {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  align-self: center;
+  justify-content: space-around;
+  display: flex;
+  background-color: aqua;
+  border-radius: 6px;
+  padding: 10px;
+}
+
+.center {
+  text-align: center;
+}
+
+.enclosure {
+  margin: 10px 50px;
+}
+
+.btn {
+  padding: 5px;
+  font-size: 15px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 6px;
+}
+
+.btnGreen {
+  background-color: rgb(162, 247, 212);
+}
+
+.btnBrown {
+  background-color: rgb(238, 198, 151);
+}
+
+#inputBox {
+  height: 25px;
+  margin: 10px;
+  border: 1px solid rgb(52, 207, 207);
+  text-align: center;
+}
