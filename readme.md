@@ -1,5 +1,5 @@
 This is a web page that encrypts text using the Caesar cipher
-encryption method. Details about this can be found Click [here](https://en.wikipedia.org/wiki/Caesar_cipher).
+encryption method. Details about this can be found [here](https://en.wikipedia.org/wiki/Caesar_cipher).
 
 This project is to encrypt the text using a left rotation of 5.
 
